@@ -6,6 +6,4 @@
 [drinkWater]
 (https://naughty-ptolemy-8919fa.netlify.app)
 
-![an image of the project](screen.png)
-
 
