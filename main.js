@@ -30,7 +30,7 @@ function addToBigCup() {
     
     if(fullCups == 0) {
         percentage.style.visibility = 'hidden';
-        percentage.style.height = 0;
+        percentage.style.height = 0; 
     }else {
         percentage.style.visibility = 'visible';
         percentage.style.height = `${fullCups/totalCups * 320}px`;
