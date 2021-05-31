@@ -41,7 +41,7 @@ function addToBigCup() {
         remained.style.visibility = 'hidden';
     }else {
         remained.style.visibility = 'visible';
-        spanText.innerText = `${2 -(250 * fullCups / 1000)}L`;
+        spanText.innerText = `${2 - (250 * fullCups / 1000)}L`;
         spanText.style.color = 'black';
     }
 }
